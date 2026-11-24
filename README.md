@@ -8,4 +8,4 @@ Figma UI/UX prototype for a mobile app that lets users scan products, check thei
 
 | Scan | Scan Popup | Basket |
 | :---: | :---: | :---: |
-| <img width="240" alt="Scan" src="https://github.com/user-attachments/assets/be5fa5cd-7d23-4ced-ad20-9bd8907f6aa1" /> | <img width="240" alt="Scan Popup" src="https://github.com/user-attachments/assets/10cfb95a-3da8-46f0-b81c-b47277e8ca72" /> | <img width="240" alt="Basket" src="https://github.com/user-attachments/assets/5b9b1106-74ac-4d6a-a3a9-d1072ba99f94" /> |
+| <img width="240" alt="Scan" src="https://github.com/user-attachments/assets/cc29d285-1710-425e-bce9-9678f944ecd9" /> | <img width="240" alt="Scan Popup" src="https://github.com/user-attachments/assets/7da91c98-6bdb-400c-bfc0-660fffa1e85b" /> | <img width="240" alt="Basket" src="https://github.com/user-attachments/assets/3867c788-2e48-47c7-afe0-a891293449b0" /> |
